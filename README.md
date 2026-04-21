@@ -1,5 +1,9 @@
 ## Uber Mobility Analytics Dashboard
 
+<p align="center">
+  <img src="images/demo-uber.gif" width="1000"/>
+</p>
+
 ## Resources
 - [Dashboard Power BI](https://github.com/bintangpradanaa/uber-mobility-analytics-dashboard/tree/main/dashboard)
 - [Requirement Document](https://docs.google.com/document/d/1T8a7g-McFJYWWhHm3DSBUKoxQOds0KhgyqJm3QSKVrA/edit?usp=sharing)
